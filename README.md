@@ -13,7 +13,7 @@
 ## 🚀 Установка
 
 ```bash
-git clone https://github.com/ВАШ_НИК/osint-panel.git
+git clone https://github.com/yazaLuper/osint-panel.git
 cd osint-panel
 chmod +x install.sh
 ./install.sh
